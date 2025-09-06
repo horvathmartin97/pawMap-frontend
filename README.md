@@ -78,4 +78,4 @@ Kövesd az alábbi lépéseket a projekt helyi környezetben való futtatásáho
 
 A frontendhez tartozó backend (Express.js, Prisma, PostgreSQL) egy külön repository-ban található.
 
-[**PawMap Backend Repository**](https://github.com/peter7ec/PawMap-backend)
+[**PawMap Backend Repository**](https://github.com/horvathmartin97/PawMap-Backend)

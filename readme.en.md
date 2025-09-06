@@ -51,7 +51,7 @@ Follow these steps to run the project in a local environment:
 1.  **Clone the repository:**
 
     ```
-    git clone https://github.com/peter7ec/PawMap-frontend.git
+    git clone https://github.com/horvathmartin97/pawMap-frontend
     cd PawMap-frontend
     ```
 
