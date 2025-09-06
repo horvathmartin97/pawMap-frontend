@@ -51,7 +51,7 @@ Kövesd az alábbi lépéseket a projekt helyi környezetben való futtatásáho
 1.  **Klónozd a repository-t:**
 
     ```
-    git clone https://github.com/peter7ec/PawMap-frontend.git
+    git clone https://github.com/horvathmartin97/pawMap-frontend
     cd PawMap-frontend
     ```
 
